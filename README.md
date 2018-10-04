@@ -12,3 +12,6 @@ Just clone project in your computer or server and execute with
 <code bash>
   php copy_messages.php
 </code>
+
+#Automatic sync
+To allow automatic sync just include execution command in your system crontab.
